@@ -1,11 +1,13 @@
 body
 div
 {
-    background-color: blue ;
-    margin-top: 100px;
+    background-color: rgb(74, 158, 130)
+    margin-top: 40px;
     border: 2px solid black;
 }
-
-     {
+header
+    {
+        background-color: bisque;
+        height: 100px;
         
      }
