@@ -1,30 +1,22 @@
-header
-{ 
-    background-image:linear-gradient();
-    height: 300px;
+.cabecalho
+{
+    background-color: aquamarine;
+    margin: 5px;
+    border: 2px solid skyblue;
+    height: 200px;
+    text-align: center;
 }
-.barrasuperior
+.corpo
 {
     display: flex;
     flex-direction: row;
-    background-color:honeydew;
-    border: 3px solid chartreuse;
+    background-color: mediumblue;
+    border: 3px solid indigo;
 }
-.itensmenu
-    {
-        width: 25%;
-        background-color: aqua
-        border: 3px solid midnightblue; 
-        height: 63px;
-.corpo
+.meio
 {
-    height: 620px;
+    text-align: center;
+    background-color: blue;
+    margin: 55px;
+    border: 2px solid palevioletred;
 }
-    }
-.footer
-    {
-        background-color:skyblue
-        heigh: 40px;
-        border: 3px solid black;
-    }
-    
