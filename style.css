@@ -1,22 +1,32 @@
 .cabecalho
 {
-    background-color: aquamarine;
+    background-color: rgba(78, 179, 220, 0.801);
     margin: 5px;
-    border: 2px solid skyblue;
-    height: 200px;
-    text-align: center;
+    border: 2px solid black;
+    height: 100px;
+    text-align: left;
 }
 .corpo
 {
     display: flex;
     flex-direction: row;
-    background-color: mediumblue;
-    border: 3px solid indigo;
+    background-color: rgb(75, 159, 215);
+    border: 3px solid black;
 }
 .meio
 {
-    text-align: center;
-    background-color: blue;
+    text-align: left;
+    background-color: rgb(119, 191, 227);
     margin: 55px;
-    border: 2px solid palevioletred;
+    border: 2px solid black;
+    width: 145px;
+}
+.duster 
+{
+    text-align: left;
+    background-color: rgb(119, 191, 227);
+    margin: 55px;
+    border: 2px solid black;
+    width: 145px;
+    
 }
