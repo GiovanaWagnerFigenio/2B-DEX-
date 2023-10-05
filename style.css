@@ -1,4 +1,4 @@
-.cabecalho
+.elitastravel
 {
     background-color: rgba(78, 179, 220, 0.801);
     margin: 5px;
@@ -6,20 +6,21 @@
     height: 100px;
     text-align: left;
 }
-.corpo
+.estoque
 {
     display: flex;
     flex-direction: row;
     background-color: rgb(75, 159, 215);
     border: 3px solid black;
 }
-.meio
+.maverick
 {
     text-align: left;
     background-color: rgb(119, 191, 227);
     margin: 55px;
     border: 2px solid black;
     width: 145px;
+    float: right;
 }
 .duster 
 {
@@ -29,4 +30,40 @@
     border: 2px solid black;
     width: 145px;
     
+    
+}
+.frogger
+{
+    text-align: left;
+    background-color: rgb(119, 191, 227);
+    margin: 55px;
+    border: 2px solid black;
+    width: 145px;
+    float: right;
+    height: max-content;
+}
+.mallard
+{
+    text-align: left;
+    background-color: rgb(119, 191, 227);
+    margin: 55px;
+    border: 2px solid black;
+    width: 145px; 
+}
+.vestra
+{
+    text-align: left;
+    background-color: rgb(119, 191, 227);
+    margin: 55px;
+    border: 2px solid black;
+    width: 145px;
+}
+.besra
+{
+    text-align: left;
+    background-color: rgb(119, 191, 227);
+    margin: 55px;
+    border: 2px solid black;
+    width: 145px;
+    float: right;
 }
